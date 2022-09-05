@@ -1,2 +1,2 @@
 #!/bin/bash
-tail 3 iacat
+head -n 3 iacat
